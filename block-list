@@ -1,57 +1,57 @@
-#=========== GOOGLE ==========================
-www.googleadservices.com
-www.google-analytics.com
-www.googletagmanager.com
-www.googletagservices.com
-ad.doubleclick.net
-ade.googlesyndication.com
-adservice.google.com
-googleads.g.doubleclick.net
-pagead2.googlesyndication.com
-googleads.g.doubleclick.net
-ade.googlesyndication.com
-4735610.fls.doubleclick.net
-8114842.fls.doubleclick.net
-securepubads.g.doubleclick.net
-pubads.g.doubleclick.net
-cm.g.doubleclick.net
-bid.g.doubleclick.net
+0.0.0.0 #=========== GOOGLE ==========================
+0.0.0.0 www.googleadservices.com
+0.0.0.0 www.google-analytics.com
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 www.googletagservices.com
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 ade.googlesyndication.com
+0.0.0.0 adservice.google.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 ade.googlesyndication.com
+0.0.0.0 4735610.fls.doubleclick.net
+0.0.0.0 8114842.fls.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 bid.g.doubleclick.net
 
-pagead2.googlesyndication.com
-adservice.google.com
-pagead2.googleadservices.com
-afs.googlesyndication.com
-adtago.s3.amazonaws.com
-analyticsengine.s3.amazonaws.com
-analytics.s3.amazonaws.com
-advice-ads.s3.amazonaws.com
-advertising-api-eu.amazon.com
-analytics.google.com
-click.googleanalytics.com
-google-analytics.com
-ssl.google-analytics.com
-stats.wp.com
-static.ads-twitter.com
-ads-api.twitter.com
-pixel.facebook.com
-an.facebook.com
-ads.linkedin.com
-analytics.pointdrive.linkedin.com
-events.reddit.com
-events.redditmedia.com
-ads-api.tiktok.com
-analytics.tiktok.com
-ads-sg.tiktok.com
-analytics-sg.tiktok.com
-business-api.tiktok.com
-ads.tiktok.com
-log.byteoversea.com
-ads.youtube.com
-ads.yahoo.com
-advertising.apple.com
-metrics.icloud.com
-api-adservices.apple.com
-books-analytics-events.apple.com
-weather-analytics-events.apple.com
-notes-analytics-events.apple.com
-samsungads.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 adservice.google.com
+0.0.0.0 pagead2.googleadservices.com
+0.0.0.0 afs.googlesyndication.com
+0.0.0.0 adtago.s3.amazonaws.com
+0.0.0.0 analyticsengine.s3.amazonaws.com
+0.0.0.0 analytics.s3.amazonaws.com
+0.0.0.0 advice-ads.s3.amazonaws.com
+0.0.0.0 advertising-api-eu.amazon.com
+0.0.0.0 analytics.google.com
+0.0.0.0 click.googleanalytics.com
+0.0.0.0 google-analytics.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 stats.wp.com
+0.0.0.0 static.ads-twitter.com
+0.0.0.0 ads-api.twitter.com
+0.0.0.0 pixel.facebook.com
+0.0.0.0 an.facebook.com
+0.0.0.0 ads.linkedin.com
+0.0.0.0 analytics.pointdrive.linkedin.com
+0.0.0.0 events.reddit.com
+0.0.0.0 events.redditmedia.com
+0.0.0.0 ads-api.tiktok.com
+0.0.0.0 analytics.tiktok.com
+0.0.0.0 ads-sg.tiktok.com
+0.0.0.0 analytics-sg.tiktok.com
+0.0.0.0 business-api.tiktok.com
+0.0.0.0 ads.tiktok.com
+0.0.0.0 log.byteoversea.com
+0.0.0.0 ads.youtube.com
+0.0.0.0 ads.yahoo.com
+0.0.0.0 advertising.apple.com
+0.0.0.0 metrics.icloud.com
+0.0.0.0 api-adservices.apple.com
+0.0.0.0 books-analytics-events.apple.com
+0.0.0.0 weather-analytics-events.apple.com
+0.0.0.0 notes-analytics-events.apple.com
+0.0.0.0 samsungads.com
